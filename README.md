@@ -3,7 +3,11 @@
 <!--
 **Joydazero/Joydazero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Frontend%20Developer%20focused%20on%20UI%20structure%0Aand%20interaction%20flow&fontSize=26&fontAlignY=40)
+
+</div>
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
